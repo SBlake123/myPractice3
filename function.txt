@@ -1,1 +1,1 @@
-function b(hi);
+function b(exp);
